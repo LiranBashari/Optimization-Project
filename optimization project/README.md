@@ -20,7 +20,7 @@ Parameters in Ant Colony Optimization:
     ALPHA = 1  # parameter to control the influence of previous trails on the edge
     BETA = 1  # parameter to control the influence of the desirability of the edge
 
-What left to do?
-Download the files.
-Select number of cities. 
+What left to do? <br />
+Download the files.<br />
+Select number of cities. <br />
 Then you will see the results for the different metaheuristic (including graphs).
